@@ -21,7 +21,7 @@ Pour des raisons de sécurité, la DMZ devra être reliée directement au routeu
   - 5 serveurs physiques internes sont prévus (un serveur physique qui hébergera l'AD, un DNS, et un serveur d'impression, un serveur d'authentification pour le WiFi, un serveur de fichiers, un serveur d'application et un serveur de bases de données)
   - 2 serveurs physiques (pour un reverse-proxy/serveur visio et un serveur VPN) seront installés dans la DMZ
 
-## Consignes :
+## Consignes 
  
   - dimensionnez les réseaux au plus juste, afin de garder le maximum d'espace d'adressage disponible
   - Choisissez vos réseaux afin de réduire le nombre de lignes dans les tables de routage des différents équipements
