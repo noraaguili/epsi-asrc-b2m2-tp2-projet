@@ -32,4 +32,4 @@ Pour des raisons de sécurité, la DMZ devra être reliée directement au routeu
     - configurez un serveur WE dans la DMZ
     - configurez du DHCP sur le réseau
     - depuis une station de travail interne faites une résolution DNS et analysez les trames
-    -- depuis une station de travail interne faites une requete WEB et analysez les trames
+    - depuis une station de travail interne faites une requete WEB et analysez les trames
