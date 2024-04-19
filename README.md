@@ -29,7 +29,7 @@ Pour des raisons de sécurité, la DMZ devra être reliée directement au routeu
   - préparez la matrice des flux réseau qui décrit l'ensemble des flux autorisés à transiter via les pare-feux qui seront mis en place durant l'évènement.
   - Sur Packet Tracer: 
     - configurez un serveur DNS sur un des serveurs du réseau interne
-    - configurez un serveur WE dans la DMZ
+    - configurez un serveur WE dans la DMZ,
     - configurez du DHCP sur le réseau
     - depuis une station de travail interne faites une résolution DNS et analysez les trames
     - depuis une station de travail interne faites une requete WEB et analysez les trames
